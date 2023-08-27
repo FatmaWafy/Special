@@ -1,2 +1,2 @@
 # Special
-this is Special
+First project with Javascript
